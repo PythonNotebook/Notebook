@@ -9,6 +9,7 @@ Making learning Python easier
 - F-string的各种花样
   - [Python仙术 第2期 f-string的各种小寄巧（语法糖时间）](https://linux.do/t/topic/31408)
   - [Python仙术 第3期 f-string的小技巧 进阶版](https://linux.do/t/topic/34316)
+  - [Jupyter Notebook](/formatString/f_string.ipynb)
 - 魔术方法
   - [Python黑魔法 第4期 魔术方法的走火入魔之时](https://linux.do/t/topic/37643)
 
