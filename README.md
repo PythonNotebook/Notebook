@@ -12,6 +12,7 @@ Making learning Python easier
   - [Jupyter Notebook](/formatString/f_string.ipynb)
 - 魔术方法
   - [Python黑魔法 第4期 魔术方法的走火入魔之时](https://linux.do/t/topic/37643)
+  - [Jupyter Notebook](/magic/magic.ipynb)
 
 ### 人工智能部分
 
