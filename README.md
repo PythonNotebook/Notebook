@@ -13,6 +13,10 @@ Making learning Python easier
 - 魔术方法
   - [Python黑魔法 第4期 魔术方法的走火入魔之时](https://linux.do/t/topic/37643)
   - [Jupyter Notebook](/magic/magic.ipynb)
+- 面向对象
+  - 闭包、工厂函数和装饰器
+    - [Python仙术 第6期 闭包、工厂函数和装饰器](https://linux.do/t/topic/55952)
+    - [Jupyter Notebook](/closure/closure.ipynb)
 
 ### 人工智能部分
 
