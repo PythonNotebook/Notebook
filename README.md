@@ -1,4 +1,4 @@
-# LearningPython
+# PythonNotebook
 
 Making learning Python easier
 
